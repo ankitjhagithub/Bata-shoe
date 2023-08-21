@@ -23,11 +23,6 @@ html{
     border-radius: 5px;
     background: linear-gradient(to top, #20c73c , #b4d014);
 }
-@media (max-width:500px) and (min-width: 300px){
-    #main{
-        display: block;
-    }
-}
 section{
     width: 100%;
     height: 100vh;
@@ -94,7 +89,6 @@ section .main .main_content .main_text h1{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: relative;
-    display: none;
     top: 45px;
     left: 5%;
 }
@@ -120,7 +114,6 @@ section .main .main_content .main_image img{
     position: relative;
     left: 15px;
     top: 80px;
-    display: none;
 }
 
 section .main .social_icon{
