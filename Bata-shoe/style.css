@@ -94,6 +94,7 @@ section .main .main_content .main_text h1{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: relative;
+    display: none;
     top: 45px;
     left: 5%;
 }
