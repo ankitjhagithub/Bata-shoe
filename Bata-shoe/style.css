@@ -779,7 +779,6 @@ button{
 button:hover{
     background-color: rgba(0, 136, 169, 0.8);
 }
-@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
 
 .btn{
     width: 100%;
